@@ -1,0 +1,28 @@
+body {
+    font-size: 22px;
+}
+
+h1, h2 {
+    color: blue;
+}
+
+p {
+    color: purple;
+}
+
+.highlight {
+    text-transform: uppercase;
+    background-color: gold;
+}
+
+input, section, h3 {
+    font-family: inherit;
+}
+
+.gray {
+    color: gray;
+}
+
+#second {
+    font-style: italic;
+}
